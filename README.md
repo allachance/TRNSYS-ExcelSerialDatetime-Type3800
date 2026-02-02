@@ -40,7 +40,7 @@ Type 3800 bridges TRNSYS simulation outputs with spreadsheet tools such as Micro
 
 ## Usage
 
-Use the following formula to convert the ```Serial Date``` number into a datetime format:
+Use the following formula to convert the ```Serial Date``` number into a datetime format (visaully only):
 
 ```excel
 =TEXT(A1,"yyyy-mm-dd hh:mm:ss")
